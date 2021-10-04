@@ -1,3 +1,4 @@
+#
 <!DOCTYPE html>
 <html>
 				<head>
@@ -14,7 +15,7 @@
 			position: absolute;
 			text-align: center;		
 			background-color: #141907;	
-			padding: 50px 50px;
+			padding: 50px 50px;#
 			border-radius: 15%;
 }
 h2 {
